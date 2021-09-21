@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "E:\\CtxProfiles\\drguzma\\.dotnet\\store\\|arch|\\|tfm|",
+      "E:\\CtxProfiles\\drguzma\\.nuget\\packages"
+    ]
+  }
+}
