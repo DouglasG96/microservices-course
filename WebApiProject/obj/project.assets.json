@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "E:\\CtxProfiles\\drguzma\\.nuget\\packages\\": {}
+    "C:\\Users\\DouglasG\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CtxProfiles\\drguzma\\Desktop\\WebApiProject\\WebApiProject\\WebApiProject.csproj",
+      "projectUniqueName": "D:\\Repositorios\\microservices-course\\WebApiProject\\WebApiProject.csproj",
       "projectName": "WebApiProject",
-      "projectPath": "E:\\CtxProfiles\\drguzma\\Desktop\\WebApiProject\\WebApiProject\\WebApiProject.csproj",
-      "packagesPath": "E:\\CtxProfiles\\drguzma\\.nuget\\packages\\",
-      "outputPath": "E:\\CtxProfiles\\drguzma\\Desktop\\WebApiProject\\WebApiProject\\obj\\",
+      "projectPath": "D:\\Repositorios\\microservices-course\\WebApiProject\\WebApiProject.csproj",
+      "packagesPath": "C:\\Users\\DouglasG\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositorios\\microservices-course\\WebApiProject\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "E:\\CtxProfiles\\drguzma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DouglasG\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
